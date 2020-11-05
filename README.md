@@ -1,6 +1,6 @@
 ### Hi, I'm [Duy Nguyen](https://nhbduy.github.io/resume) 👋
 
-Technologies 👨💻, reading 📖, traveling ✈️, cycling 🚴
+Technologies 👨 💻 , reading 📖 , traveling ✈️ , cycling 🚴
 
 
 > - Experienced Web Developer (mainly front-end stuffs)
