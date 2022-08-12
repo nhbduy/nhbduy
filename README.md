@@ -6,7 +6,7 @@ Technologies 👨 💻 , reading 📖 , traveling ✈️ , cycling 🚴
 > - Experienced Web Developer (mainly front-end stuffs)
 > - Live on Earth
 > - Currently learning Python and GraphQL
-> - [My CV](https://drive.google.com/file/d/1i1jhRp6RTHh-0ETGdIYM4OKeb48rjPFf/view)
+> - [My CV](https://bit.ly/cv-nhbduy-fe-web-engineer-aug2022)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nhbduy)](https://www.linkedin.com/in/nhbduy)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nhbduy75)](https://twitter.com/nhbduy75)
